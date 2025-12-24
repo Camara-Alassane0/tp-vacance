@@ -1,0 +1,28 @@
+hr{
+  width: 40%;
+  color:red;
+}
+form{
+  background-color: yellow;
+  border:2px solid red;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+width: 450px;}
+.e{
+  color: black;
+  position: relative;
+  top: -24px;
+  right: 30%;
+}
+.q{
+  color: black;
+  position: relative;
+  top: -24px;
+  right: 30%;
+}
+.s{
+  color: black;
+  position: relative;
+  top: -24px;
+}
